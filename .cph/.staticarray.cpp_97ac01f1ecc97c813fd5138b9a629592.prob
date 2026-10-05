@@ -1,0 +1,1 @@
+{"name":"Local: staticarray","url":"d:\\code\\python\\CP\\staticarray.cpp","tests":[{"id":1791186123313,"input":"1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\python\\CP\\staticarray.cpp","group":"local","local":true}
